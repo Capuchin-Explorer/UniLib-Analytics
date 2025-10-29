@@ -1,4 +1,9 @@
-Our exciting Data Literacy project 🥳
+Our exciting Data Literacy project 🥳 \
+You find the processed dataset in "\data\processed\dataset_unilib.csv.gz". \
+All python scripts including the data processing scripts can be found under \scripts. \
+I would also recommend to take a look at "scripts\df_basics.py" to refresh your data frame handling knowledge. \
+
+That's the project structure:
 ```text
 UniLib-Analytics/
 │
