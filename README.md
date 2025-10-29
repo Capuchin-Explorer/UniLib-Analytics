@@ -1,3 +1,4 @@
+Our exciting Data Literacy project 🥳
 ```text
 UniLib-Analytics/
 │
@@ -28,9 +29,10 @@ UniLib-Analytics/
 │ ├── 01_combine_and_merge_datasets.py
 │ ├── 02_clean_final_dataset.py
 │ ├── df_basics.py
+│ │
 │ └── plotting/
-│ ├── Unibib_day_occupancy.py
-│ └── Unibib_week_occupancy.py
+│ │ ├── Unibib_day_occupancy.py
+│ │ └── Unibib_week_occupancy.py
 │
 ├── .gitignore
 │
